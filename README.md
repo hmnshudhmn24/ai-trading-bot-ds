@@ -40,17 +40,3 @@ python train.py
 ```bash
 python test.py
 ```
-
-## Project Structure
-
-- `train.py` - Training logic for the trading agent
-- `test.py` - Testing logic for the agent on unseen data
-- `model.py` - DQN model definition
-- `agent.py` - Agent logic and reinforcement learning implementation
-- `env.py` - Trading environment
-- `utils.py` - Helper functions for preprocessing
-- `requirements.txt` - Python dependencies
-
-## Disclaimer
-
-This project is for educational purposes only and should not be used for actual trading without significant modification and thorough testing.
